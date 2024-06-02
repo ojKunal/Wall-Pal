@@ -1,0 +1,43 @@
+{
+  "_bodyBlob": {
+    "_data": {
+      "__collector": 1,
+      "blobId": "32767ccd-26a5-40ba-9238-59e4327f0886",
+      "offset": 0,
+      "size": 41
+    }
+  },
+  "_bodyInit": {
+    "_data": {
+      "__collector": 1,
+      "blobId": "32767ccd-26a5-40ba-9238-59e4327f0886",
+      "offset": 0,
+      "size": 41
+    }
+  },
+  "bodyUsed": false,
+  "headers": {
+    "map": {
+      "access-control-allow-methods": "GET, POST, HEAD",
+      "access-control-allow-origin": "*",
+      "allow": "GET, POST, OPTIONS",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "s-max-age=3600",
+      "cf-cache-status": "MISS",
+      "cf-ray": "86f85a9b0d519392-BBI",
+      "content-language": "en",
+      "content-security-policy": "frame-ancestors none",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Fri, 05 Apr 2024 09:01:30 GMT",
+      "server": "cloudflare",
+      "set-cookie": "csrftoken=DFO6hztSqCyPTSt4CRDDxmISzxsnJN2RbKrdSc0zfyjyWBo24SVLkhN1yUCinBsw; expires=Fri, 04 Apr 2025 09:01:30 GMT; Max-Age=31449600; Path=/; SameSite=Lax",
+      "vary": "Accept, Cookie, Accept-Language, Accept-Encoding",
+      "x-frame-options": "DENY"
+    }
+  },
+  "ok": false,
+  "status": 400,
+  "statusText": "",
+  "type": "default",
+  "url": "https://pixabay.com/api/?key=43233697-b51cd10a39170a394da1e52be&q=nature&page=0&image_type=photo&orientation=vertical"
+}

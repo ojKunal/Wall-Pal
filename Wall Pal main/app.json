@@ -1,0 +1,11 @@
+{
+  "name": "WallPaper",
+  "displayName": "WallPaper",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "9b5aec53-9ff9-40d1-95a2-442ec2c81676"
+      }
+    }
+  }
+}
